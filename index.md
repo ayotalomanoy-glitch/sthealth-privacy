@@ -10,6 +10,7 @@ The application utilizes the local Windows API (`GetLastInputInfo`) strictly to 
 
 ## 3. Contact
 If you have any questions or concerns regarding this policy, please open an issue on our GitHub repository.
+https://github.com/ayotalomanoy-glitch/sthealth-privacy/issues
 
 ---
 
@@ -25,3 +26,4 @@ Sthealth Stretchはデバイスのローカル環境で完全に動作します�
 
 ## 3. お問い合わせ
 本ポリシーに関するご質問は、GitHubリポジトリのIssueよりご連絡ください。
+https://github.com/ayotalomanoy-glitch/sthealth-privacy/issues
